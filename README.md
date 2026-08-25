@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="helloworld.svg" width="100%">
+</p>
 
 
 <h1> <img width="32" height="32" alt="icons8-so-so-32" src="https://github.com/user-attachments/assets/b137de27-cf2d-4d2d-b9a1-d27344d766c9" />
